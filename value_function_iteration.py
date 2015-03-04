@@ -1,4 +1,4 @@
-# simple value function iteration example: optimal investment/consumption problem
+# A simple value function iteration example: the standard dynamic investment/consumption problem
 # utility function is log() and production function is k^alpha
 from __future__ import division #use Python 3 division operation (Python 2 does integer division by default)
 import numpy as np

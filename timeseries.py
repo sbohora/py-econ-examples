@@ -1,4 +1,4 @@
-#Time series example
+#Time series example: generate series, visualize, regression
 import numpy as np
 from statsmodels.tsa.stattools import acf,pacf
 from statsmodels.tsa import ar_model
